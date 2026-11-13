@@ -69,11 +69,3 @@ Os dados (`data/`) não são versionados no repositório.
 ## Stack
 
 PySpark, Delta Lake, pandas.
-
-## Status
-
-- [x] Landing, bronze e silver
-- [x] `dim_date`
-- [ ] `dim_seller`, `dim_product`, `dim_customer` (SCD2)
-- [ ] `fct_order_items`, `fct_orders`
-- [ ] Runner que percorre os dias automaticamente
