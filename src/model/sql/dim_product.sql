@@ -1,0 +1,1 @@
+-- dim_product: regras no docstring de build_dim_product (model_gold.py)

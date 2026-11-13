@@ -1,0 +1,1 @@
+-- fct_order_items: regras no docstring de build_fct_order_items (model_gold.py)

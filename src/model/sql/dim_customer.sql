@@ -1,0 +1,1 @@
+-- dim_customer: regras no docstring de build_dim_customer (model_gold.py)

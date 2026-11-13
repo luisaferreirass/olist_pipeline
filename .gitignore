@@ -1,0 +1,17 @@
+# ambiente e IDE
+.venv/
+.idea/
+__pycache__/
+*.pyc
+
+# dados (grandes e reproduzíveis)
+data/
+
+# configuração do assistente
+.kiro/
+
+# anotações pessoais (não publicar)
+anotacoes*.md
+processo_silver.md
+tratamento_silver.md
+architecture.md
